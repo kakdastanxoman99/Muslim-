@@ -1,2 +1,0 @@
-# Muslim-
-Muslim Privacy policy
