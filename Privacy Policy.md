@@ -14,7 +14,6 @@ permissions are required to get the user's location in order to move compass arr
 Permissions
 
 1. ACCESS_FINE_LOCATION
-2. MANAGE_EXTERNAL_STORAGE
 3. VIBRATE
 
 
