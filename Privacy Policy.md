@@ -1,4 +1,4 @@
-Privacy Policy for Muslim موسڵمان.
+Privacy Policy for زانستی ئیسلام.
 
 
 We do not collect personal data from this program, there is no data collection and we do not transfer them to third parties
