@@ -9,12 +9,16 @@ We do not collect personal data from this program, there is no data collection a
 We respect your privacy and therefore the app does not collect or transfer any data whatsoever. It needs access to permission category “Photos/Media/Audio/Files” to playback the downloaded audio recitations and it needs access to permission category 
 
 permissions are required to get the user's location in order to move compass arrow towards the Qibla. This location is stored on user's device and is not shared in any form.
-
+Permission are required to get the user praying time 
 
 Permissions
 
 1. ACCESS_FINE_LOCATION
-3. VIBRATE
+2. VIBRATE
+3. RECEIVE_BOOT_COMPLETED
+4. SYSTEM_ALERT_WINDOW
+5. FOREGROUND_SERVICE
+6. WAKE_LOCK
 
 
 
